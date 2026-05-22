@@ -36,7 +36,7 @@ st.sidebar.write(
 # User Input
 location = st.text_input(
     "Enter a country or city name",
-    placeholder="Example: Japan, Dubai, Paris"
+    placeholder="Example: Japan, India, Paris"
 )
 
 currency_amount = st.number_input(
