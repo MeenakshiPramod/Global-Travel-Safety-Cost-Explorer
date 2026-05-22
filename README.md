@@ -210,14 +210,18 @@ Possible future enhancements:
 # Screenshots
 
 ## Home Screen
-(Add screenshot here)
+<img width="2545" height="1278" alt="image" src="https://github.com/user-attachments/assets/7e5533fc-ebfa-4647-ab78-f0412c03f4ee" />
+
 
 ## Results Screen
-(Add screenshot here)
+<img width="2559" height="1281" alt="image" src="https://github.com/user-attachments/assets/937f1b56-62b0-4aa9-b85c-46cc5fcfd3eb" />
+<img width="2555" height="1300" alt="image" src="https://github.com/user-attachments/assets/87c68503-2f95-4219-812d-b507c74138e3" />
 
-## Error Handling Screen
-(Add screenshot here)
 
+#  Live Demo
+
+[https://your-app-link.streamlit.app
+](https://global-travel-safety-cost-explorergit-le8gk3r8jtejkeueoybwl8.streamlit.app/)
 ---
 
 # Security
